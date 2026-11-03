@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Kaden Younis, cybersecurity apprentice in progress, learning Linux networking Python and blue team security">
+<defs>
+<linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#060F1D"/><stop offset=".58" stop-color="#102D40"/><stop offset="1" stop-color="#07111E"/></linearGradient>
+<linearGradient id="accent" x1="0" x2="1"><stop stop-color="#37F9DF"/><stop offset="1" stop-color="#54B5FF"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="8"/></filter>
+</defs>
+<rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+<g opacity=".22" stroke="#2E5671" stroke-width="1">
+<path d="M0 60H1200M0 100H1200M0 140H1200M0 180H1200M0 220H1200M0 260H1200M0 300H1200"/>
+<path d="M70 0V340M140 0V340M210 0V340M280 0V340M350 0V340M420 0V340M490 0V340M560 0V340M630 0V340M700 0V340M770 0V340M840 0V340M910 0V340M980 0V340M1050 0V340M1120 0V340"/>
+</g>
+<circle cx="1010" cy="170" r="110" fill="none" stroke="#2D7B8A" stroke-width="1.5" opacity=".8"/>
+<circle cx="1010" cy="170" r="84" fill="none" stroke="#46D5E3" stroke-width="2" stroke-dasharray="7 12" opacity=".7"/>
+<circle cx="1010" cy="170" r="46" fill="#123949" stroke="#46E1D8" stroke-width="2"/>
+<path d="M1010 136L1040 149V173C1040 199 1026 218 1010 228C994 218 980 199 980 173V149Z" fill="#0B2232" stroke="#6CFCDF" stroke-width="3"/>
+<path d="M997 181L1007 191L1026 168" fill="none" stroke="#6CFCDF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#41EBDD" filter="url(#glow)" opacity=".4"><circle cx="1010" cy="170" r="95"/></g>
+<text x="58" y="55" fill="#55EBDD" font-size="17" font-family="monospace" letter-spacing="3">SECURITY LAB / BUILD LOG / 2026–2028</text>
+<text x="55" y="136" fill="#FFFFFF" font-size="62" font-weight="bold" font-family="Arial,sans-serif">KADEN YOUNIS</text>
+<text x="58" y="183" fill="#66E9E0" font-size="26" font-family="monospace">ASPIRING CYBERSECURITY APPRENTICE</text>
+<text x="58" y="230" fill="#BED3DF" font-size="21" font-family="Arial,sans-serif">Linux  ·  Networking  ·  Python  ·  Defensive Security</text>
+<path d="M58 267H746" stroke="url(#accent)" stroke-width="3"/>
+<text x="58" y="301" fill="#91B5C6" font-size="17" font-family="monospace">70 PROJECTS PLANNED  //  280 STEPS  //  EVIDENCE FIRST</text>
+</svg>

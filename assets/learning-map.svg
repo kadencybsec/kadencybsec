@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="240" viewBox="0 0 1100 240" role="img" aria-label="Learning priorities: foundations, defender skills, practical labs, building tools and communication">
+<rect width="1100" height="240" rx="22" fill="#081725"/>
+<text x="36" y="42" fill="#45E7D8" font-size="17" font-family="monospace" letter-spacing="2">LEARNING PRIORITIES // NOT PROFICIENCY SCORES</text>
+<g font-family="monospace" font-size="16">
+<text x="36" y="91" fill="#DAE9EF">01  FOUNDATIONS</text>
+<text x="36" y="132" fill="#DAE9EF">02  DEFENSIVE SECURITY</text>
+<text x="36" y="173" fill="#DAE9EF">03  PRACTICAL LABS</text>
+<text x="555" y="91" fill="#DAE9EF">04  BUILDING TOOLS</text>
+<text x="555" y="132" fill="#DAE9EF">05  TECHNICAL WRITING</text>
+</g>
+<g stroke="#37DCCC" stroke-width="3"><path d="M255 85H470"/><path d="M300 126H470"/><path d="M265 167H470"/><path d="M765 85H980"/><path d="M822 126H980"/></g>
+<text x="36" y="217" fill="#7AA5B4" font-size="16" font-family="monospace">WORK IN PROGRESS · ALL PROGRESS MUST BE VERIFIED</text>
+</svg>
