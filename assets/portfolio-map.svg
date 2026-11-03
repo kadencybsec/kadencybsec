@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="286" viewBox="0 0 1200 286" role="img" aria-label="Portfolio workstreams: hands-on labs, software tools, research and technical documentation. These are areas of work, not proficiency scores.">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#091724"/><stop offset="1" stop-color="#0D2B3D"/></linearGradient><linearGradient id="t" x1="0" x2="1"><stop stop-color="#46E9D0"/><stop offset="1" stop-color="#59B5FC"/></linearGradient></defs>
+<rect width="1200" height="286" rx="22" fill="url(#b)"/>
+<text x="38" y="46" fill="#62EADB" font-family="monospace" font-size="18" letter-spacing="2">PORTFOLIO WORKSTREAMS</text>
+<text x="1150" y="46" fill="#86AABA" text-anchor="end" font-family="monospace" font-size="14">CATEGORIES · NOT SKILL RATINGS</text>
+<g>
+<rect x="36" y="78" width="267" height="160" rx="13" stroke="#286577" fill="#0B2332"/>
+<rect x="323" y="78" width="267" height="160" rx="13" stroke="#286577" fill="#0B2332"/>
+<rect x="610" y="78" width="267" height="160" rx="13" stroke="#286577" fill="#0B2332"/>
+<rect x="897" y="78" width="267" height="160" rx="13" stroke="#286577" fill="#0B2332"/>
+</g>
+<g fill="none" stroke="url(#t)" stroke-width="3">
+<path d="M78 131H136M106 101V161"/><circle cx="106" cy="131" r="13"/>
+<path d="M356 120H404V149H442M373 98V120M423 150V173"/><circle cx="356" cy="120" r="5"/><circle cx="442" cy="149" r="5"/>
+<circle cx="681" cy="129" r="28"/><path d="M702 149L722 170M681 112V128H695"/>
+<rect x="930" y="107" width="60" height="48" rx="5"/><path d="M941 118H979M941 130H975M941 142H966"/>
+</g>
+<g fill="#E6F5F9" font-family="monospace" font-size="19">
+<text x="61" y="199">SECURITY LABS</text><text x="349" y="199">CODE &amp; TOOLS</text><text x="636" y="199">RESEARCH</text><text x="922" y="199">REPORTS</text>
+</g>
+<text x="38" y="269" fill="#84B0C0" font-family="monospace" font-size="14">A GROWING ARCHIVE OF ORIGINAL WORK, INVESTIGATIONS AND LESSONS LEARNED</text>
+</svg>

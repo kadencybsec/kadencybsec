@@ -1,24 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Kaden Younis, cybersecurity apprentice in progress, learning Linux networking Python and blue team security">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-label="Kaden Younis. Cybersecurity portfolio featuring systems, security analysis, software and research.">
 <defs>
-<linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#060F1D"/><stop offset=".58" stop-color="#102D40"/><stop offset="1" stop-color="#07111E"/></linearGradient>
-<linearGradient id="accent" x1="0" x2="1"><stop stop-color="#37F9DF"/><stop offset="1" stop-color="#54B5FF"/></linearGradient>
-<filter id="glow"><feGaussianBlur stdDeviation="8"/></filter>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071321"/><stop offset=".58" stop-color="#0C2937"/><stop offset="1" stop-color="#06101D"/></linearGradient>
+  <linearGradient id="trace" x1="0" y1="0" x2="1"><stop stop-color="#42E8D1"/><stop offset="1" stop-color="#51ACFA"/></linearGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="10"/></filter>
 </defs>
-<rect width="1200" height="340" rx="24" fill="url(#bg)"/>
-<g opacity=".22" stroke="#2E5671" stroke-width="1">
-<path d="M0 60H1200M0 100H1200M0 140H1200M0 180H1200M0 220H1200M0 260H1200M0 300H1200"/>
-<path d="M70 0V340M140 0V340M210 0V340M280 0V340M350 0V340M420 0V340M490 0V340M560 0V340M630 0V340M700 0V340M770 0V340M840 0V340M910 0V340M980 0V340M1050 0V340M1120 0V340"/>
+<rect width="1200" height="350" rx="24" fill="url(#background)"/>
+<g stroke="#23465B" stroke-width=".8" opacity=".38">
+  <path d="M0 48H1200M0 96H1200M0 144H1200M0 192H1200M0 240H1200M0 288H1200"/>
+  <path d="M64 0V350M128 0V350M192 0V350M256 0V350M320 0V350M384 0V350M448 0V350M512 0V350M576 0V350M640 0V350M704 0V350M768 0V350M832 0V350M896 0V350M960 0V350M1024 0V350M1088 0V350M1152 0V350"/>
 </g>
-<circle cx="1010" cy="170" r="110" fill="none" stroke="#2D7B8A" stroke-width="1.5" opacity=".8"/>
-<circle cx="1010" cy="170" r="84" fill="none" stroke="#46D5E3" stroke-width="2" stroke-dasharray="7 12" opacity=".7"/>
-<circle cx="1010" cy="170" r="46" fill="#123949" stroke="#46E1D8" stroke-width="2"/>
-<path d="M1010 136L1040 149V173C1040 199 1026 218 1010 228C994 218 980 199 980 173V149Z" fill="#0B2232" stroke="#6CFCDF" stroke-width="3"/>
-<path d="M997 181L1007 191L1026 168" fill="none" stroke="#6CFCDF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<g fill="#41EBDD" filter="url(#glow)" opacity=".4"><circle cx="1010" cy="170" r="95"/></g>
-<text x="58" y="55" fill="#55EBDD" font-size="17" font-family="monospace" letter-spacing="3">SECURITY LAB / BUILD LOG / 2026–2028</text>
-<text x="55" y="136" fill="#FFFFFF" font-size="62" font-weight="bold" font-family="Arial,sans-serif">KADEN YOUNIS</text>
-<text x="58" y="183" fill="#66E9E0" font-size="26" font-family="monospace">ASPIRING CYBERSECURITY APPRENTICE</text>
-<text x="58" y="230" fill="#BED3DF" font-size="21" font-family="Arial,sans-serif">Linux  ·  Networking  ·  Python  ·  Defensive Security</text>
-<path d="M58 267H746" stroke="url(#accent)" stroke-width="3"/>
-<text x="58" y="301" fill="#91B5C6" font-size="17" font-family="monospace">70 PROJECTS PLANNED  //  280 STEPS  //  EVIDENCE FIRST</text>
+<g transform="translate(1015 176)">
+  <circle r="123" stroke="#2C8EA0" stroke-width="1.5" fill="none" opacity=".7"/>
+  <circle r="95" stroke="#3CE2D4" stroke-width="2.4" stroke-dasharray="2 10" fill="none"/>
+  <circle r="61" fill="#11364A" stroke="#4EACF6" stroke-width="2"/>
+  <path d="M0-38 33-20 33 19 0 42-33 19-33-20Z" stroke="#75F4E5" fill="#0B2334" stroke-width="3"/>
+  <path d="M-17-9H-2L10-21M-11 10H8L19 23" stroke="#5CB9F4" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <circle cx="-17" cy="-9" r="4.2" fill="#55F5D5"/><circle cx="10" cy="-21" r="4.2" fill="#55F5D5"/><circle cx="19" cy="23" r="4.2" fill="#55F5D5"/>
+  <circle cx="-84" cy="-32" r="4" fill="#4DDCE0"/><circle cx="86" cy="24" r="4" fill="#4DDCE0"/>
+  <path d="M-84-32H-140M86 24H137" stroke="#5ABFDE" stroke-width="2"/>
+</g>
+<text x="55" y="52" fill="#54E6D9" font-family="monospace" font-size="17" letter-spacing="3">KADEN // PROJECTS &amp; TECHNICAL NOTES</text>
+<text x="52" y="137" fill="#F2FAFD" font-family="Arial,sans-serif" font-weight="bold" font-size="65">KADEN YOUNIS</text>
+<text x="56" y="190" fill="#6EE9DF" font-family="monospace" font-size="25">CYBERSECURITY  /  SYSTEMS  /  SOFTWARE</text>
+<text x="56" y="234" fill="#B8D0DC" font-family="Arial,sans-serif" font-size="20">Practical labs. Useful tools. Security research. Documented results.</text>
+<path d="M56 270H744" stroke="url(#trace)" stroke-width="3"/>
+<text x="55" y="311" fill="#98B9C9" font-family="monospace" font-size="17">BUILD   /   ANALYSE   /   TEST   /   DOCUMENT   /   IMPROVE</text>
 </svg>

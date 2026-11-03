@@ -1,77 +1,79 @@
 <div align="center">
 
-![Kaden Younis · Cybersecurity Learning Journey](assets/hero.svg)
+![Kaden Younis — Cybersecurity, Systems and Software](assets/hero.svg)
 
-### Building the skills, not collecting the badges.
+**Cybersecurity learner and builder · A-level Maths, Physics and Computer Science · UK**
 
-**Year 12 student · A-level Mathematics, Physics & Computer Science · London, UK**
-
-[![Projects](https://img.shields.io/badge/PROJECTS-70%20PLANNED-30d5c8?style=for-the-badge&labelColor=0b1928)](https://github.com/kadencybsec/cybersecurity-projects)
-[![Learning log](https://img.shields.io/badge/LEARNING-OPEN%20NOTES-58b9ff?style=for-the-badge&labelColor=0b1928)](https://github.com/kadencybsec/cyber-learning-log)
-[![Journey](https://img.shields.io/badge/GOAL-UK%20CYBER%20APPRENTICESHIP-96a8ff?style=for-the-badge&labelColor=0b1928)](https://github.com/kadencybsec/cybersecurity-projects)
+[![Project Portfolio](https://img.shields.io/badge/EXPLORE-PROJECTS-3DD9D1?style=for-the-badge&labelColor=0b1928)](https://github.com/kadencybsec/cybersecurity-projects)
+[![Technical Notes](https://img.shields.io/badge/READ-LEARNING%20LOG-58b9ff?style=for-the-badge&labelColor=0b1928)](https://github.com/kadencybsec/cyber-learning-log)
+[![Portfolio Index](https://img.shields.io/badge/VIEW-WORK%20INDEX-A2B0FF?style=for-the-badge&labelColor=0b1928)](https://github.com/kadencybsec/cybersecurity-projects/blob/main/PORTFOLIO.md)
 
 </div>
 
-## `> whoami`
+## `> about_me`
 
-I'm **Kaden**, an aspiring cybersecurity apprentice studying A-level Maths, Physics and Computer Science.
+I'm **Kaden Younis**. I study **A-level Mathematics, Physics and Computer Science** and have a strong interest in how computer systems work, how they fail and how to secure them.
 
-I'm learning the fundamentals of **Linux, networking, Python, practical security testing and defensive monitoring**. My goal is to become capable of understanding, troubleshooting and explaining systems independently.
+I use GitHub as a **long-term technical portfolio**, not just a place to upload coursework. This is where I document what I build, the security problems I investigate, the commands and tools I learn, and the evidence behind my results.
 
-I'm documenting a structured two-year programme of **70 cybersecurity learning projects**. Each project has four concrete steps, a defined deliverable, and a space for honest evidence. I am at the **beginning** of this programme, and this profile will grow as I do.
+My current focus is developing core skills in **Linux, networking, Python, defensive security and practical lab work**. I'm working toward an entry-level cybersecurity opportunity, with the aim of continuing to use this portfolio throughout my career.
 
-## `> operational_status`
+## `> portfolio_directory`
+
+![Portfolio workstreams](assets/portfolio-map.svg)
+
+| Workstream | What you'll find | Browse |
+|:--|:--|:--|
+| **Technical projects** | Prototypes, experiments, scripts, reproducible lab work and future builds | [Projects and tools](https://github.com/kadencybsec/cybersecurity-projects) |
+| **Portfolio index** | A curated list of finished work, results, evidence and limitations | [Verified work index](https://github.com/kadencybsec/cybersecurity-projects/blob/main/PORTFOLIO.md) |
+| **Security research** | Threat models, defensive case studies and referenced investigation notes | [Research area](https://github.com/kadencybsec/cybersecurity-projects/tree/main/research) |
+| **Learning notebook** | Linux, networks, Python, HTB/CTF reflections and troubleshooting notes | [Learning log](https://github.com/kadencybsec/cyber-learning-log) |
+
+### `> how_i_work`
+
+```text
+DEFINE THE PROBLEM
+      ↓
+LEARN THE FOUNDATIONS
+      ↓
+BUILD OR INVESTIGATE
+      ↓
+TEST AND DOCUMENT THE RESULT
+      ↓
+REFLECT, IMPROVE AND PUBLISH EVIDENCE
+```
+
+I value clear explanations and reproducible work more than inflated scores or claims. My project READMEs distinguish **planned work**, **work in progress** and **completed results**.
+
+## `> selected_work`
+
+I'm building the first entries in my portfolio. I won't present unfinished projects as completed achievements.
+
+- **Current lab:** [B06 — Personal cybersecurity lab](https://github.com/kadencybsec/cybersecurity-projects/tree/main/projects/beginner/B06), an isolated environment for future experiments.
+- **Future independent work:** [Independent projects](https://github.com/kadencybsec/cybersecurity-projects/tree/main/independent-projects) and [tools](https://github.com/kadencybsec/cybersecurity-projects/tree/main/tools) can grow beyond any fixed syllabus.
+- **Published results:** The [portfolio index](https://github.com/kadencybsec/cybersecurity-projects/blob/main/PORTFOLIO.md) will be updated as complete, explainable work is available.
+
+## `> structured_learning_track`
+
+One part of this portfolio is a **70-project learning programme (2026–2028)**, covering security foundations, applied labs and advanced research topics. It provides structure, but does **not** define the limit of my future work.
 
 <div align="center">
 
-[![Live verified progress: project and step completion](https://raw.githubusercontent.com/kadencybsec/cybersecurity-projects/main/assets/progress-dashboard.svg)](https://github.com/kadencybsec/cybersecurity-projects)
+[![Progress of the structured 70-project programme](https://raw.githubusercontent.com/kadencybsec/cybersecurity-projects/main/assets/progress-dashboard.svg)](https://github.com/kadencybsec/cybersecurity-projects/blob/main/data/progress.json)
 
 </div>
 
-*Live dashboard reads the project's evidence register. Planned is not completed. Percentages only increase after progress is recorded.*
+<sub>This dashboard measures only that specific training programme, not my overall technical experience. Counts reflect recorded project steps; planned work is not treated as complete.</sub>
 
-## `> active_workspace`
+## `> principles`
 
-| Workspace | Purpose | Open |
-|---|---|---|
-| **70 Cybersecurity Projects** | Guided security builds, reproducible notes, documentation and progress metrics | [Explore projects](https://github.com/kadencybsec/cybersecurity-projects) |
-| **Cyber Learning Log** | Weekly notes, HTB and CTF reflections, concepts explained without copy-paste | [Explore learning log](https://github.com/kadencybsec/cyber-learning-log) |
-| **B06 · Home Cybersecurity Lab** | First sprint: lab isolation, Linux VM, second test system and snapshots | [Start B06](https://github.com/kadencybsec/cybersecurity-projects/tree/main/projects/beginner/B06) |
-
-## `> skill_tree`
-
-```text
-FOUNDATIONS     Linux · Windows · Networks · Python
-                │
-DEFEND          Logs · Detection · Forensics · Hardening
-                │
-INVESTIGATE     HTB Academy · TryHackMe · Safe CTF practice
-                │
-ENGINEER        Scripts · Secure applications · Automated checks
-                │
-COMMUNICATE     Reports · READMEs · Reproducibility · Reflection
-```
-
-These are **learning priorities**, not claims of professional expertise.
-
-## `> current_sprint`
-
-**B06 — Create a personal cybersecurity lab at home**  
-Planned: 9–14 November 2026
-
-`B06-S1` Plan VM isolation and snapshot strategy → `S2` Install Linux VM → `S3` Add second test system → `S4` Document and test recovery.
-
-[Open the full B06 checklist](https://github.com/kadencybsec/cybersecurity-projects/blob/main/projects/beginner/B06/README.md)
-
-## `> my_principles`
-
-**Explain before executing.** I aim to understand commands instead of pasting them.  
-**Practise with permission.** I test only my systems and explicitly authorised labs.  
-**Publish evidence, not hype.** If a project isn't finished, it won't be marked finished.  
-**Learn in public.** I'll show limitations, mistakes, fixes and better approaches.
+- **Understand before automating.** Explain commands and choices in my own words.
+- **Test with permission.** Keep experiments in owned or authorised environments.
+- **Show the evidence.** Include methods, tests, outcomes and limitations.
+- **Keep improving.** Earlier projects remain visible as a record of how my work develops.
 
 ---
 
 <div align="center">
-<sub>Building toward a UK cybersecurity apprenticeship · 2026–2028 · Portfolio maintained as skills develop</sub>
+<sub>Projects, technical notes and security research · A portfolio designed to grow over time</sub>
 </div>
